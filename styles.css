@@ -1,22 +1,34 @@
-body {
-  font-family: "Helvetica", sans-serif;
+html, body {
+  background: #efeff0;
+  margin: 0;
 }
 
-h1 {
-
+body {
+  font-family: "Helvetica", sans-serif;
+  background: white;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 0;
+  padding: 0% 2.5% 1%;
 }
 
 h2 {
-  color: #7A0019;
+  color: #7a0019;
   margin-bottom: -10px;
   margin-top: 30px;
 }
 
-p {
-
+#contact {
+  background-color: #b9d9df;
+  padding: 2%;
+  margin-top: 30px;
 }
 
-#contact {
-  background-color: #FFDE7A;
-  padding: 2%;
+footer {
+	border-top: 1px solid gray;
+	text-align: center;
+	font-size: .8em;
+	line-height: 4em;
+	margin-top: 30px;
 }
