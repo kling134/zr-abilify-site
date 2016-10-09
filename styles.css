@@ -36,8 +36,15 @@ h2 {
   font-size: 1.2em;
 }
 
+#casereview {
+  margin-top: 30px;
+  padding: 2%;
+  text-align: center;
+  background-color: #b9d9df;
+}
+
 #contact {
-  padding-bottom: 100px;
+  padding-bottom: 40px;
 }
 
 footer {
